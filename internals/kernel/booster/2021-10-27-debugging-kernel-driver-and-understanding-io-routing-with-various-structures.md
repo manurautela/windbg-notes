@@ -20,7 +20,7 @@ ___
 
 I have built the driver for 32-bit windows 10.
 
-![setup](/images/install_driver.jpg)
+![setup](images/install_driver.jpg)
 
 <br>
 
@@ -670,7 +670,7 @@ I/O routing from user to kernel
 
 These data structures are related to each other as below.
 
-![io_routing](/images/io_routing.jpg)
+![io_routing](images/io_routing.jpg)
 
 
 <br>
